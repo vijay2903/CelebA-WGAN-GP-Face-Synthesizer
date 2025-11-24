@@ -5,8 +5,8 @@ Pytorch implementation of DCGAN, CDCGAN, LSGAN, WGAN and WGAN-GP for CelebA data
 ### 1. Download the [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) dataset, and aligned version is used in this repo.
 ### 2. Clone the repo
 ```bash
-$ git clone https://github.com/AndrewZhuZJU/Pytorch_GAN_CelebA.git
-$ cd Pytorch_GAN_CelebA
+$ git clone https://https://github.com/vijay2903/CelebA-WGAN-GP-Face-Synthesizer
+$ cd CelebA-WGAN-GP-Face-Synthesizer
 ```
 ### 3. Training
 To train any GAN please use `main_**.py`. For example, 
